@@ -1,0 +1,25 @@
+{
+  "name": "script_parser",
+  "version": "1.0.0",
+  "description": "This is a project for outputting the \"size\" of scripts, i forgor",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eengstroem/script_parser.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "eengstroem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eengstroem/script_parser/issues"
+  },
+  "homepage": "https://github.com/eengstroem/script_parser#readme",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
